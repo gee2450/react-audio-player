@@ -33,9 +33,7 @@
     "media player"
   ],
   "files": [
-    "react-audio-player-component.es.js",
-    "react-audio-player-component.umd.js",
-    "index.d.ts"
+    "dist"
   ],
   "main": "./dist/react-audio-player-component.umd.js",
   "module": "./dist/react-audio-player-component.es.js",
