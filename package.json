@@ -39,11 +39,9 @@
   "module": "./dist/react-audio-player-component.es.js",
   "types": "./dist/index.d.ts",
   "exports": {
-    ".": {
-      "types": "./dist/index.d.ts",
-      "import": "./dist/react-audio-player-component.es.js",
-      "require": "./dist/react-audio-player-component.umd.js"
-    }
+    "types": "./dist/index.d.ts",
+    "import": "./dist/react-audio-player-component.es.js",
+    "require": "./dist/react-audio-player-component.umd.js"
   },
   "scripts": {
     "dev": "vite",
